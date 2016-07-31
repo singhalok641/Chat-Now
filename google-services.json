@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "690394472992",
+    "project_id": "chat-now-1469777068942"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690394472992:android:4534892ac6089f58",
+        "android_client_info": {
+          "package_name": "org.sat.chatnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNU5Ji2Fu5Z3jnGgTgKNxITzk5XVqWHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
